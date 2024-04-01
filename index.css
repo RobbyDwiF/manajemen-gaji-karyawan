@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 2;
+}
+header{
+    display: flex;
+    background-color: blueviolet;
+
+}
+.pisces{
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+font-family: Gill Sans;
+}
+.logo{
+margin: 5px;
+}
+nav{
+    background-color: rgb(12, 181, 238);
+    display: flex;
+
+}
+a{
+    
+}
