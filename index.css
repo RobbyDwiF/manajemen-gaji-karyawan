@@ -1,26 +1,34 @@
 *{
     margin: 0;
-    padding: 2;
+    padding: 0;
+    font-family :'Courier, monospace';
 }
+
 header{
     display: flex;
     background-color: blueviolet;
-
 }
+
 .pisces{
     display: flex;
     align-items: center;
     font-size: 30px;
-font-family: Gill Sans;
+    font-family: Gill Sans;
 }
+
 .logo{
-margin: 5px;
+     margin: 5px;
 }
+
 nav{
     background-color: rgb(12, 181, 238);
     display: flex;
-
 }
-a{
-    
+.nav{
+    padding: 15px;
+    font-family:;
+}
+main{
+    display: flex;
+    background-color:darkgray ;  
 }
